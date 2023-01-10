@@ -1,0 +1,6 @@
+      CLIP:  Command Line Item Priorities
+
+CLIP is an action item list console application.
+Prioritize your action items list to keep track
+and manage your items quickly to enhance daily 
+business or personal productivity and workflow.
